@@ -1,2 +1,2 @@
 # hello-world
-My learning
+My learning is starting. I am a Ducktor
